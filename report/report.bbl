@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{1}
+C.~Haythornthwaite L.~Garton and B.Wellman.
+\newblock Studying online social networks.
+\newblock {\em Journal of Computer-Mediated Communication}, 3, 1997.
+
+\bibitem{2}
+Allen Downey.
+\newblock {\em Think Python}.
+\newblock Green Tea Press, 2003.
+
+\bibitem{3}
+{\em Six degrees of separation' theory tested on Facebook}.
+\newblock Telegraph, 2012.
+
+\bibitem{4}
+http://www.alexa.com/siteinfo/douban.com.
+
+\bibitem{5}
+Mark Najork and Janet~L. Wiener.
+\newblock Breadth-first crawling yields high-quality pages.
+\newblock In {\em Proceedings of the 10th international conference on World
+  Wide Web}, pages 114--118, 2001.
+
+\bibitem{6}
+Mike Thelwall.
+\newblock Results from a web impact factor crawler.
+\newblock {\em Journal of Documentation}, pages 177--191, 2001.
+
+\bibitem{7}
+J.~Lang S.~Ye and F.~Wu.
+\newblock Crawling online social graphs.
+\newblock In {\em Proceedings of the 12th International Asia-Pacific Web
+  Conference, IEEE}, pages 236--242, 2010.
+
+\end{thebibliography}

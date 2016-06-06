@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: unsrt.bst
+Database file #1: r3.bib
+Warning--empty author and editor in 3
+Warning--empty chapter and pages in 3
+You've used 7 entries,
+            1791 wiz_defined-function locations,
+            475 strings with 4159 characters,
+and the built_in function-call counts, 1545 in all, are:
+= -- 139
+> -- 34
+< -- 3
++ -- 15
+- -- 8
+* -- 65
+:= -- 204
+add.period$ -- 18
+call.type$ -- 7
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 95
+empty$ -- 179
+format.name$ -- 8
+if$ -- 385
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 35
+num.names$ -- 5
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 84
+swap$ -- 36
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 11
+width$ -- 8
+write$ -- 69
+(There were 2 warnings)
